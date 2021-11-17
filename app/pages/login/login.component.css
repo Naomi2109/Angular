@@ -1,0 +1,41 @@
+.Fondo
+{
+    background: -webkit-linear-gradient(top, rgb(137, 81, 148), yellow, rgb(255, 254, 254)) ;
+}
+.mb-3
+{
+    margin-top:0px;
+    padding-left:200px;
+    padding-right:200px;
+    
+}
+
+.form-label
+{
+    font-family: fantasy;
+    font-weight: 900;
+}
+.form-text
+{
+    font-family: fantasy;
+}
+.form-check-label
+{
+    font-family: fantasy;
+   
+}
+
+.btn
+{
+    background-color:yellow;
+    border: black;
+    font-family: fantasy;
+    color:black
+}
+#flex
+{
+    display: flex;
+    justify-content:  center;
+    padding: 30px;
+    
+}

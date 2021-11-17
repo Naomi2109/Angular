@@ -1,0 +1,16 @@
+.Fondo
+{
+    margin-top: 0px;
+    padding: 1%;
+    background: -webkit-linear-gradient(top, rgb(137, 81, 148), yellow, white) ;
+    font-family: fantasy;
+    padding-bottom: 280px;
+}
+
+#flex{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    padding-left:250px;
+    padding-right:250px;
+}

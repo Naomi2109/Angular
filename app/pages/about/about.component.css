@@ -1,0 +1,45 @@
+h1
+{
+    font-size: 50px;
+    font-family: fantasy;
+    color: black;
+    text-align: center;
+}
+.Fondo
+{
+    margin-top: 0px;
+    padding-bottom: 100px;
+    padding-top: 10px;
+    background: -webkit-linear-gradient(top, rgb(137, 81, 148), yellow, white) ;
+
+}
+
+
+.form-label
+{
+    font-family: fantasy;
+    font-weight: 900;
+}
+
+.btn
+{
+    background-color:yellow;
+    border: black;
+    font-family: fantasy;
+    color:black
+}
+#flex
+{
+    display: flex;
+    flex-direction: column;
+    align-items:  center;
+   
+    
+}
+#flex2
+{
+    display: flex;
+   justify-content: center;
+    
+    
+}

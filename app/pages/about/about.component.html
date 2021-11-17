@@ -1,0 +1,25 @@
+<section class="Fondo"> 
+    <h1>AUTORS</h1>
+    <div>
+        <div class="form-label" id="flex">
+            Nombre : {{miAutor.nombre}}<br/>
+            Apellido : {{miAutor.apellido}}<br/>
+            Edad : {{miAutor.edad}}<br/>
+            <hr>
+            <input type="text" value="{{miAutor.nombre}}"> <br/>
+            <input type="text" value="{{miAutor.apellido}}"> <br/>
+            <input type="text" value="{{miAutor.edad}}"> <br/>
+        </div>
+        <div class="form-label" id="flex2">
+            <input type="text" #input1>
+            <button type= "reset" class="btn" on-click= enviar(input1)>Cambiar Nombre</button>
+            <br>
+            <input type="text" #input2>
+            <button class="btn" on-click= enviarA(input2)>Cambiar Apellido</button>
+            <br>
+            <input type="text" #input3>
+            <button class="btn" on-click= enviarE(input3)>Cambiar Edad</button>
+        
+        </div>
+    </div>
+</section>

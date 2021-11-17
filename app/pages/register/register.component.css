@@ -1,0 +1,25 @@
+.Fondo
+{
+
+    background: -webkit-linear-gradient(top, rgb(137, 81, 148), yellow, white) ;
+    font-family: fantasy;
+
+}
+
+#flex{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+}
+
+.col-12{
+    
+    padding-top: 30px;
+}
+
+.btn{
+    background-color: yellow;
+    border: black;
+    font-family:fantasy;
+    color:black
+}

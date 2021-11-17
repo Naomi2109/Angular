@@ -1,0 +1,8 @@
+h1
+{
+    font-size: 100px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: grey;
+    text-align: center;
+    background: -webkit-linear-gradient(top, rgb(137, 81, 148), yellow, rgb(255, 255, 255)) ;
+}
